@@ -1,0 +1,20 @@
+.bigimg {
+    width: 400px;
+}
+.bigimg-container {
+    text-align: center;
+}
+.others {
+    display:none
+}
+ul {
+    list-style: none;
+  }
+.hands {
+    text-align: center;
+}
+.hand {
+    width: 60px;
+    height: 60px;
+    margin: 60px;
+}
